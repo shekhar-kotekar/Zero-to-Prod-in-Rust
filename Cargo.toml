@@ -1,5 +1,5 @@
 [package]
-name = "Zero-to-Prod-in-Rust"
+name = "zero_to_prod_in_rust"
 version = "0.1.0"
 edition = "2021"
 
